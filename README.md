@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mschmohl
-- 👀 I’m interested in graphic design
+- 👀 I’m interested in graphic design and web development
 - 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on freelance jobs
+- 💞️ I’m looking for employment as a junior web developer
 - 📫 How to reach me schmohl.missy@gmail.com
 
 <!---
