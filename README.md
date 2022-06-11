@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mschmohl
-- 👀 I’m interested in front end web development and UI design
+- 👀 I’m interested in frontend web development and UI design
 - 🌱 I’m currently expanding my web development skills
-- 💞️ I’m looking for employment as a junior web developer
+- 💞️ I’m looking for employment as a frontend web developer or web designer
 - 📫 How to reach me: schmohl.missy@gmail.com
 
 <!---
